@@ -39,8 +39,8 @@ TurboTitan is a powerful PowerShell script designed to supercharge your Windows 
 3. Navigate to the directory where the script is located.
 4. Run the script using the command:
    ```powershell
-   .\TurboTitan.ps1
-```
+   .\TurboTitan.ps1```
+
 ## 🛠️ Usage
 
 Upon execution, the script checks system compatibility and prompts the user to create a system restore point.
