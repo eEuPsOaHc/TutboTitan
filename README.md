@@ -65,5 +65,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Inspired by the need for performance optimization in low-end systems.
 Unleash the full potential of your PC with TurboTitan! 🚀
+
 ---
 *By executing this script, you confirm that you have read and understood the disclaimer and accept full responsibility for any outcomes. If you do not agree, do not run this script.*
