@@ -6,7 +6,7 @@ TurboTitan is a powerful PowerShell script designed to supercharge your Windows 
 
 ## ⚠️ Disclaimer
 
-**WARNING:** You are running this script at your own risk. It is highly recommended to back up your system before proceeding. The author is not responsible for any data loss or system issues that may occur as a result of running this script.
+**WARNING:** You are running this script at your own risk. It is highly recommended to back up your system before proceeding. The author is not responsible for any data loss or system issues that may occur as a result of running this script, By running this script, you acknowledge and agree that you do so at your own risk.
 
 ## 🌟 Key Features
 
@@ -65,3 +65,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Inspired by the need for performance optimization in low-end systems.
 Unleash the full potential of your PC with TurboTitan! 🚀
+*By executing this script, you confirm that you have read and understood the disclaimer and accept full responsibility for any outcomes. If you do not agree, do not run this script.*
