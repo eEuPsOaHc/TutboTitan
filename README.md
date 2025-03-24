@@ -1,4 +1,5 @@
-# TurboTitan - The Ultimate Performance Booster for Your PC!
+# TurboTitan
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The%20Ultimate%20Performance%20Booster%20for%20Your%20PC!)](https://git.io/typing-svg)
 
 ## 🚀 Overview
 
